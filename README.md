@@ -2,12 +2,12 @@
 ![title](https://github.com/user-attachments/assets/c4a3512a-6877-4bb0-9bf4-25be1f34ceea)
 
 
-**British-Airways-Virtual-Experience-Program
+**British-Airways-Virtual-Experience-Program**
 
 Data science virtual internship programme by British Airways through Forage!
 ******
 
-**Tools Used
+**Tools Used**
 
 ******
 1. Beautiful Soup
@@ -21,7 +21,7 @@ Data science virtual internship programme by British Airways through Forage!
 9. Xgboost classifier
 
 ******
-#Task 1
+**Task 1**
 
 1. Applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
 2. Analyze customer reviews using vader sentimental analysis to sort positive and negative reviews.
@@ -37,5 +37,6 @@ Data science virtual internship programme by British Airways through Forage!
 
 
 ******
-**Task 2
+****Task 2**
+
 1. Creating a classification model to predict customer buying behaviour
