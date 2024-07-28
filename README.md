@@ -5,20 +5,22 @@
 **British-Airways-Virtual-Experience-Program**
 
 Data science virtual internship programme by British Airways through Forage!
-
+******
 
 **Tools Used**
-Beautiful Soup
-Vader Sentiment Analysis
-nltk
-Pandas
-Seaborn
-Matplotlib
-scikit-learn
-Random forest classifier
-Xgboost classifier
 
+******
+1. Beautiful Soup
+2. Vader Sentiment Analysis
+3. nltk
+4. Pandas
+5. Seaborn
+6. Matplotlib
+7. scikit-learn
+8. Random forest classifier
+9. Xgboost classifier
 
+******
 **Task 1**
 
 1. Applying webscraping in unstructured data taken from the https://www.airlinequality.com/airline-reviews/british-airways
@@ -32,6 +34,6 @@ Xgboost classifier
 ![image](https://github.com/user-attachments/assets/01170541-a296-40bb-acab-db9c4734b327)
 
 
-
+******
 **Task 2**
 1. Creating a classification model to predict customer buying behaviour
